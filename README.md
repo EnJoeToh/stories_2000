@@ -21,6 +21,6 @@ Stories around 2000 letters (in Japanese)
 個人的な読書、非営利での朗読  
 機械学習のデータなどに利用することができます
 
-読書の場合は、
-https://kakuyomu.jp/works/16817139558554217038
-などの方が見やすいでしょう
+読書の場合は  
+https://kakuyomu.jp/works/16817139558554217038  
+などの方が見やすいでしょう  
